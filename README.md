@@ -7,7 +7,7 @@ Curso de 13 clases para aprender a trabajar con Python
 
 [PDF clase_1](https://drive.google.com/file/d/18TIwVBpjpMtgXBjOEfUI78UPpER0CcrL/view?usp=share_link)
 
-[Ejercicios](ejercicios_1)
+[Ejercicios](https://drive.google.com/drive/folders/1Q108NvIzJuhuDIluqQuCMEq1_EIaGoWd?usp=share_link)
 
 **Clase 2**
 
