@@ -11,4 +11,7 @@ Curso de 13 clases para aprender a lo básico de Python
 
 **Clase 2**
 
-[Canal de YouTube](https://www.youtube.com/channel/UCha7oR79ruIat2t5VDzacoQ)
+[PDF clase_2](https://drive.google.com/file/d/1FkuVoQS3lMrbT6_0WeCBKDNi-24Zc_wi/view?usp=share_link)
+
+
+**[Canal de YouTube](https://www.youtube.com/channel/UCha7oR79ruIat2t5VDzacoQ)**
