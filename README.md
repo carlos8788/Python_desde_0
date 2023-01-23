@@ -21,6 +21,7 @@ Curso de 13 clases para aprender lo básico de Python
 
 [Ejercicios](https://drive.google.com/drive/folders/1jpaPEmq2CqZ_nfsoofMyRn-om-rJGcmb?usp=sharing)
 
+[PDF complementario](https://drive.google.com/file/d/1ItcJ-xtmJJjNSsn4KvJDaBH9EL1tByLN/view?usp=sharing)
 
 **[Canal de YouTube](https://www.youtube.com/channel/UCha7oR79ruIat2t5VDzacoQ)**
 
