@@ -1,6 +1,8 @@
 # Python_desde_0
 Curso de 13 clases para aprender lo básico de Python
 
+**[Canal de YouTube](https://www.youtube.com/channel/UCha7oR79ruIat2t5VDzacoQ)**
+
 [Plan de estudio](https://drive.google.com/file/d/1EcJIR2Thrh3vF5IuI7u8ccj7w0Kv7Mea/view?usp=share_link)
 
 **Clase 1**
@@ -41,5 +43,9 @@ Curso de 13 clases para aprender lo básico de Python
 
 [PDF clase_7](https://drive.google.com/drive/folders/1zjkTQwoD8PtMzJIELQV6BFflzhn2ntfX?usp=sharing)
 
-**[Canal de YouTube](https://www.youtube.com/channel/UCha7oR79ruIat2t5VDzacoQ)**
+**Clase 8**
+
+[PDF clase_8](https://drive.google.com/drive/folders/1woMXAahoBt9ZSIzX6B4PST7jgkImwGH_?usp=sharing)
+
+
 
