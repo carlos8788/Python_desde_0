@@ -46,6 +46,7 @@ Curso de 13 clases para aprender lo básico de Python
 **Clase 8**
 
 [PDF clase_8](https://drive.google.com/drive/folders/1woMXAahoBt9ZSIzX6B4PST7jgkImwGH_?usp=sharing)
+[Ejercicios](https://drive.google.com/drive/u/4/folders/17XZZ1ILFTjsb-y33enE1-KznCgXZejbN)
 
 
 
