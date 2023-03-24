@@ -1,0 +1,1 @@
+# Guardar los datos que se almacenan en una agenda en un archivo .txt y que cada vez que abramos la app se puedan ver los contactos ya agregados
