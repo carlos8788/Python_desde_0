@@ -1,2 +1,3 @@
-./img
-./ejercicios_1
+.gitignore
+/img
+/ejercicios_1
