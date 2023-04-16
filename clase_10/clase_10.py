@@ -1,25 +1,25 @@
-# from tkinter import *
+from tkinter import *
 
-# root = Tk()
-# frame_1 = Frame(root, background='lightblue', pady=100, padx=100)
-# frame_1.grid(row=1, column=0)
+root = Tk()
+frame_1 = Frame(root, background='lightblue', pady=100, padx=100)
+frame_1.grid(row=1, column=0)
 
-# frame_2 = Frame(root, bg='orange',pady=100, padx=100 )
-# frame_2.grid(row=0, column=0)
+frame_2 = Frame(root, bg='orange',pady=100, padx=100 )
+frame_2.grid(row=0, column=0)
 
-# redbutton = Button(frame_1, text="Red", fg="red")
-# redbutton.grid(row=0, column=0)
+redbutton = Button(frame_1, text="Red", fg="red")
+redbutton.grid(row=0, column=0)
 
-# greenbutton = Button(frame_1, text="Brown", fg="brown")
-# greenbutton.grid(row=0, column=1)
+greenbutton = Button(frame_1, text="Brown", fg="brown")
+greenbutton.grid(row=0, column=1)
 
-# bluebutton = Button(frame_2, text="Blue", fg="blue", bg='lightgreen')
-# bluebutton.grid(row=0, column=0)
+bluebutton = Button(frame_2, text="Blue", fg="blue", bg='lightgreen')
+bluebutton.grid(row=0, column=0)
 
-# blackbutton = Button(frame_2, text="Black", fg="black", bg='lightgreen')
-# blackbutton.grid(row=0, column=1)
+blackbutton = Button(frame_2, text="Black", fg="black", bg='lightgreen')
+blackbutton.grid(row=0, column=1)
 
-# root.mainloop()
+root.mainloop()
 
 # from tkinter import *
   
@@ -135,15 +135,17 @@
 
 # ventana.mainloop()
 
-from tkinter import *
-from tkinter import messagebox
+# from tkinter import *
+# from tkinter import messagebox
 
-top = Tk()
-top.geometry("200x200")
-def hola_mundo():
-   messagebox.showinfo("Decir hola", "Hola mundo")
+# top = Tk()
+# top.geometry("200x200")
+# def hola_mundo():
+#    messagebox.showinfo("Decir hola", "Hola mundo")
 
-B1 = Button(top, text = "Decir hola", command = hola_mundo)
-B1.pack()
+# B1 = Button(top, text = "Decir hola", command = hola_mundo)
+# B1.pack()
 
-top.mainloop()
+# top.mainloop()
+
+

@@ -7,7 +7,7 @@ def capturar_datos(nom, ape, celu):
 
 
 ventana_principal = Tk()
-ventana_principal.geometry('800x500')
+ventana_principal.geometry('703x450')
 ventana_principal.title('Clase 10')
 
 ####################################### VARIABLES
