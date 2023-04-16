@@ -1,6 +1,0 @@
-
-papa:
-	Cantidad: 1	Precio: 10
-
-Cantidad total: 1
-Total: $10.0

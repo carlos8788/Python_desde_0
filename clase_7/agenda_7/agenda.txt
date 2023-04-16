@@ -1,3 +1,0 @@
-Luis,123,av siempre viva,1234
-carlos,Av albuquerque,Av albuquerque,1234
-Gabriel,asd,asd,as

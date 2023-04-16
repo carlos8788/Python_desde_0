@@ -1,6 +1,0 @@
-
-limon:
-	Cantidad: 2	Precio: 250
-
-Cantidad total: 2
-Total: $500.0

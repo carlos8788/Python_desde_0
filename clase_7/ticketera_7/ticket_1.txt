@@ -1,6 +1,0 @@
-
-lion:
-	Cantidad: 0	Precio: 20
-
-Cantidad total: 0
-Total: $0.0

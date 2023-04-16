@@ -1,6 +1,0 @@
-
-papa:
-	Cantidad: 2	Precio: 250
-
-Cantidad: 2
-Total: $500.0

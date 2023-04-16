@@ -1,3 +1,0 @@
-Hola desde un archivo txt
-Segunda linea del archivo txt
-Tercera linea del archivo txt
